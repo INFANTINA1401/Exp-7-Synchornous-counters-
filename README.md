@@ -53,16 +53,32 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:INFANTINA MARIA L 
+RegisterNumber:23012526  
 */
+![CODE UPCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/4d85de95-545b-4f99-8618-47fa95de3323)
+![CODE DOWNCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/c4f16a82-8f89-4304-9429-ba76f293534f)
+
+
+
+
+
+### RTL LOGIC UP COUNTER AND DOWN COUNTER
+![LOGIC GATE UPCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/e703b010-e180-43a4-b8bd-373bed0c43c7)
+![LOGIC GATE DOWNCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/25ae01cd-e7c3-423d-8a51-cbe365f859f0)
 
 
 
 
 
 
-### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+
+
+
+
+### TIMING DIGRAMS FOR COUNTER
+![TIMELINE UPCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/bd2a8b29-e52d-4ac8-b3bb-b85fdaeccc8d)
+![TIMELINE DOWNCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/ee63559a-4125-41ba-9977-cb8afbcc38f3)
 
 
 
@@ -70,15 +86,10 @@ RegisterNumber:
 
 
 
+### TRUTH TABLE
+![WAVEFORM UPCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/9f25cb1e-ae2b-4d47-b0d6-27320128726c)
+![WAVEFORM DOWNCOUNTER](https://github.com/INFANTINA1401/Exp-7-Synchornous-counters-/assets/147313821/b50afb73-d200-466b-ac22-2d844fec24f4)
 
-
-### TIMING DIGRAMS FOR COUNTER  
-
-
-
-
-
-### TRUTH TABLE 
 
 
 
